@@ -5,9 +5,9 @@ Projeto de DataViz para analisar trafego no Blog "Bloco de Código" no segundo s
 
 [Arquivo](Bloco_de_Codigo.pbix) editável do Power BI.
 
-![pagina2](Imagens/pag_2.png)
-
 Acesso ao dashboard completo [aqui](https://app.powerbi.com/view?r=eyJrIjoiZDliOGY1MmYtYzZjNy00ZmY5LWFjZGEtNjFlNWE4YTBkZDVmIiwidCI6ImMwMGMyNzg3LTI3NmItNDE4ZC1iZjFjLTFkOTVhNDY3NTZjZSJ9&pageName=ReportSection5fd2366070b918cd8c5d)
+
+![pagina2](Imagens/pag_2.png)
 
 ## Análises e Principais Insights
 
