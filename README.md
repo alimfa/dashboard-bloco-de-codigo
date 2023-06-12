@@ -1,7 +1,11 @@
 # BLOCO DE CODIGO
 Projeto de DataViz para analisar trafego no Blog "Bloco de Código" no segundo semestre de 2021. O dashboard foi desenvolvido no Power BI, com o objetivo de avaliar o efeito de anúncios pagos direcionados para visualização e acessos do site. 
 
+[Dados](campanha_bloco_de_código.xlsx) utilizados, fornecidos pela empresa.
 
+[Arquivo](Bloco_de_Codigo.pbix) editável do Power BI.
+
+![pagina2](Imagens/pag_2.png)
 
 Acesso ao dashboard completo [aqui](https://app.powerbi.com/view?r=eyJrIjoiZDliOGY1MmYtYzZjNy00ZmY5LWFjZGEtNjFlNWE4YTBkZDVmIiwidCI6ImMwMGMyNzg3LTI3NmItNDE4ZC1iZjFjLTFkOTVhNDY3NTZjZSJ9&pageName=ReportSection5fd2366070b918cd8c5d)
 
